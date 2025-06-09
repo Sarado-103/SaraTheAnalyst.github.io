@@ -1,0 +1,35 @@
+📘 Web Scraping Project: Book Price Scraper
+📌 Project Overview
+This project demonstrates web scraping using Python. It extracts book titles and prices from the Books to Scrape website and stores the data in a CSV file for further analysis.
+
+🛠️ Technologies Used
+1) Python 3
+
+2) requests
+
+3) BeautifulSoup (bs4)
+
+4) csv
+
+Jupyter Notebook
+✅ Features
+Extracts book title and price
+
+Saves data into a structured CSV file
+
+Handles HTTP headers for scraping
+  
+🗃️ Output Sample
+Title	Price
+Tipping the Velvet	£53.74
+
+📈 Future Enhancements
+Add pagination to scrape all book pages
+
+Add additional fields like availability, rating, etc.
+
+Store data in a database
+
+🙋‍♀️ Author
+Sara Hemant Mankar
+System Administrator & Aspiring Data Analyst.
